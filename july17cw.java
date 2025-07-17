@@ -54,7 +54,7 @@ public class july17cw
 	}
 	public static void display()
 	{
-		if(top==size-1)
+		if(top==-1)
 		{
 			System.out.println("The data is not available");
 			
